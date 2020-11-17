@@ -1,0 +1,7 @@
+Gramatica:
+S->&/AB/XB
+T->AB/XBa
+X->AT/
+A->a/
+B->b/
+/
